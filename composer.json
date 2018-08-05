@@ -1,0 +1,13 @@
+{
+    "name": "php/templating",
+    "require": {
+        "twig/twig": "2.5",
+        "fzaninotto/faker": "1.8"
+    },
+    "authors": [
+        {
+            "name": "100drine",
+            "email": "julien100drine@sfr.fr"
+        }
+    ]
+}
